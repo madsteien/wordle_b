@@ -381,6 +381,7 @@ export const validWords: string[] = [
   "weissbier",
   "erdringer",
   "bokstaver",
+  "amdsterdam",
 ];
 
 // Function to check if a word is valid
